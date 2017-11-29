@@ -154,4 +154,3 @@ www.fbcdn.net
 www.login.facebook.com
 zh-cn.facebook.com
 zh-tw.facebook.com
-hardmob.com.br
