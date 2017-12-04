@@ -154,3 +154,7 @@ www.fbcdn.net
 www.login.facebook.com
 zh-cn.facebook.com
 zh-tw.facebook.com
+c.whatsapp.net
+c.whatsapp.com
+whatsapp.net
+whatsapp.com
