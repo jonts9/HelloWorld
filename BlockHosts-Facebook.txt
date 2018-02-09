@@ -157,3 +157,6 @@ zh-tw.facebook.com
 instagram.com
 instagram.net
 www.instagram.com
+https://instagram.com
+https://instagram.net
+https://www.instagram.com
