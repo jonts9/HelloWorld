@@ -156,3 +156,4 @@ zh-cn.facebook.com
 zh-tw.facebook.com
 instagram.com
 instagram.net
+www.instagram.com
