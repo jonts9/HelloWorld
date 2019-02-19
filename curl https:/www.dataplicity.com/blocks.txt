@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/jonts9/HelloWorld/master/BlockHosts-Facebook.txt
+https://raw.githubusercontent.com/jonts9/blocklists/master/corporations/facebook/all
